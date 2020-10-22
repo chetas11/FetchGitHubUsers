@@ -1,0 +1,18 @@
+.container-fluid {
+  background-color: aquamarine;
+  padding: 50px;
+}
+
+input {
+  margin: 50px 10px;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px;
+}
+
+p {
+  margin: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
