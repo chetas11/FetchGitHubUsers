@@ -17,7 +17,11 @@ input,
 }
 
 input[type="text"] {
-  background-color: #f6f6f6;
+  background-color: whitesmoke;
+}
+
+.btn {
+  background-color: black;
 }
 
 .details {
