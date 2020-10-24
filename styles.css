@@ -1,12 +1,44 @@
 .container-fluid {
-  background-color: aquamarine;
+  background-color: #dfd3c3;
   padding: 50px;
+  margin-right: 0%;
+}
+
+body {
+  background-color: #f0ece3;
+}
+
+input,
+.btn {
+  margin: 50px 0px;
+  display: inline;
+  position: relative;
+  width: 100%;
+}
+
+input[type="text"] {
+  background-color: #f6f6f6;
+}
+
+.details {
+  font-family: "Staatliches", cursive;
+  font-size: 1.5rem;
+  color: #596e79;
+}
+
+#ReposDiv p {
+  font-family: "Righteous", cursive;
+  color: #7e8a97;
+}
+
+h1 {
+  font-family: "Grenze Gotisch", sans-serif;
+  margin-top: 50px;
+  font-size: 5rem;
 }
 
 input {
-  margin: 50px 10px;
-  display: inline;
-  position: relative;
+  color: lightgrey;
 }
 
 img {
@@ -17,4 +49,20 @@ img {
 p {
   margin: 20px;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@media screen and (max-width: 991px) {
+  .btn {
+    margin: 2px 0px;
+  }
+
+  input {
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  h1 {
+    font-size: 3rem;
+  }
 }
