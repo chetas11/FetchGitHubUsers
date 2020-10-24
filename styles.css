@@ -2,10 +2,12 @@
   background-color: #dfd3c3;
   padding: 50px;
   margin-right: 0%;
+  background-image: url("https://www.transparenttextures.com/patterns/climpek.png");
 }
 
 body {
   background-color: #f0ece3;
+  background-image: url("https://www.transparenttextures.com/patterns/climpek.png");
 }
 
 input,
