@@ -24,6 +24,9 @@ input[type="text"] {
 
 .search {
   background-color: black;
+  border-left: none;
+  border-top-left-radius: 0%;
+  border-bottom-left-radius: 0%;
 }
 
 .details {
@@ -34,7 +37,7 @@ input[type="text"] {
 
 #ReposDiv p {
   font-family: "Righteous", cursive;
-  color: #7e8a97;
+  color: #411f1f;
 }
 
 h1 {
@@ -45,6 +48,9 @@ h1 {
 
 input {
   color: lightgrey;
+  border-right: none;
+  border-top-right-radius: 0%;
+  border-bottom-right-radius: 0%;
 }
 
 .pages {
