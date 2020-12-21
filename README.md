@@ -17,6 +17,6 @@
  
  #### Screenshot - 
 
-![Screenshot](https://github.com/chetas11/ToDoList/blob/master/Screenshot_2020-12-15%20TODOLIST.png)
+![Screenshot](https://github.com/chetas11/FetchGitHubUsers/blob/master/Screenshot_2020-12-21%20Document.png)
 
 
